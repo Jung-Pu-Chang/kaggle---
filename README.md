@@ -8,6 +8,7 @@
 
 資料來源: https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo/overview
 
+
 # KAGGLE 2: Weibo Social Networks -- associated rules
 
 目標: 挖掘微博主之間的關聯規則
@@ -15,6 +16,7 @@
 使用方法&結果: 透過apriori挖掘關聯規則，並將結果以網站格式輸出
 
 資料來源: https://www.kaggle.com/jm3402/weibo-social-networks
+
 
 # KAGGLE 3: facebook member EDA
 目標: facebook用戶EDA
@@ -27,6 +29,7 @@
 
 資料來源: https://www.kaggle.com/sheenabatra/facebook-data
 
+
 # KAGGLE 4: Tesla Stock Price Prediction
 
 目標: 預測特斯拉2017/3/1~3/17每日收盤價
@@ -34,6 +37,7 @@
 使用方法&結果: 使用SARIMA模型預測，誤差為2%
 
 資料來源: https://www.kaggle.com/rpaguirre/tesla-stock-price
+
 
 # KAGGLE 5: Identify cats and dogs
 
