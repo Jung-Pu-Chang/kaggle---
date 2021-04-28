@@ -1,7 +1,6 @@
 # 機器學習作業*5
 
-# KAGGLE 1:   
-combined k-means & svm to solve classification problem
+# KAGGLE 1: combined k-means & svm to solve classification problem
 
 目標: 預測kaggle議題-Ghouls, Goblins, and Ghosts... Boo!鬼的種類，應變量為類別型
 
@@ -9,8 +8,7 @@ combined k-means & svm to solve classification problem
 
 資料來源: https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo/overview
 
-# KAGGLE 2:
-Weibo Social Networks -- associated rules
+# KAGGLE 2: Weibo Social Networks -- associated rules
 
 目標: 挖掘微博主之間的關聯規則
 
@@ -18,7 +16,7 @@ Weibo Social Networks -- associated rules
 
 資料來源: https://www.kaggle.com/jm3402/weibo-social-networks
 
-# KAGGLE 3:
+# KAGGLE 3: facebook member EDA
 目標: facebook用戶EDA
 
 結果:
@@ -29,8 +27,7 @@ Weibo Social Networks -- associated rules
 
 資料來源: https://www.kaggle.com/sheenabatra/facebook-data
 
-# KAGGLE 4:
-Tesla Stock Price Prediction
+# KAGGLE 4: Tesla Stock Price Prediction
 
 目標: 預測特斯拉2017/3/1~3/17每日收盤價
 
@@ -38,8 +35,7 @@ Tesla Stock Price Prediction
 
 資料來源: https://www.kaggle.com/rpaguirre/tesla-stock-price
 
-# KAGGLE 5:
-Identify cats and dogs
+# KAGGLE 5: Identify cats and dogs
 
 程式碼影片說明: CNN 5.2~5.4 https://www.youtube.com/playlist?list=PL68v9oqhwEhg8ynlgz-3S6_pPKYhIRIg3
 
