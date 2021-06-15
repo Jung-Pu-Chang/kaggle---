@@ -1,4 +1,4 @@
-# 機器學習作業*5
+# KAGGLE競賽
 
 # KAGGLE 1: combined k-means & svm to solve classification problem
 
