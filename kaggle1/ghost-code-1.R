@@ -85,5 +85,5 @@ future <- predict(model,testx)
 future <- as.data.frame(future)
 final <- cbind(future,testx)
 write.table(final[,1:2],file = "D:\\5_feature.csv",sep=",",row.names = FALSE)
-
+#test
 
